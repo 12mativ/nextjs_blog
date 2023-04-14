@@ -6,6 +6,7 @@ export default function AddPage() {
 
             <>
                 <div>developer/popup commit 1</div>
+                <div>developer/popup commit 2</div>
             </>
         </>
     )
