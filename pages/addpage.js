@@ -3,6 +3,10 @@ export default function AddPage() {
         <>
             <div>Hello</div>
             <div>Add new text with dev branch</div>
+
+            <>
+                <div>developer/login commit 1</div>
+            </>
         </>
     )
 }
