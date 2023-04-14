@@ -6,6 +6,7 @@ export default function AddPage() {
 
             <>
                 <div>developer/login commit 1</div>
+                <div>developer/login commit 2</div>
             </>
         </>
     )
